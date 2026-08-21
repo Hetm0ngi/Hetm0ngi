@@ -4,7 +4,7 @@
 <p align="center">ㅤㅤㅤㅤ
 <p align="center">${\textsf{\color{#F385BE}⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔}}$
 <p align="center">ㅤㅤㅤㅤ
-<p align="center">⟢ ㅤ<a href=https://miikayeo.straw.page/>straw<a/>${\textsf{\color{#ffbdd4}ㅤ︵ ⭑}}$ㅤ<a href=https://yeosangie.atabook.org/>ata<a/>${\textsf{\color{#ffbdd4}ㅤ︵ ⭑}}$ <a href=https://guns.lol/sangiee>guns<a/>ㅤ  ⏾
+<p align="center">⟢ ㅤ<a href=https://frutigerotter.straw.page/>NEW !! straw<a/>${\textsf{\color{#ffbdd4}ㅤ︵ ⭑}}$ㅤ<a href=https://yeosangie.atabook.org/>ata<a/>${\textsf{\color{#ffbdd4}ㅤ︵ ⭑}}$ <a href=https://guns.lol/sangiee>guns<a/>ㅤ  ⏾
 <p align="center">ㅤㅤㅤㅤ
 <p align="center"><img width="130" height="125" alt="pony-town-🐟 , dniup-trot-blinking-padded-4x" src="https://github.com/user-attachments/assets/8ced299c-f213-466c-961c-380de244f3a2" /><a href=https://github.com/hanhaology/><img width="110" height="145" alt="ri pt" src="https://github.com/user-attachments/assets/4e42a4dc-2880-4165-bebf-99124fca2cb1" />
 <p align="center"> ${\textsf{\color{#ffbdd4}CHECK OUT MY BF'S GITHUB!!!! ↑}}$
