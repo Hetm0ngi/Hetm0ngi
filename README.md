@@ -14,4 +14,6 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=nellihev&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=f385be&bar_color_cover=false">
   </a>
 </p>
+<p align="center"> ${\textsf{\color{#ffbdd4}FYI: I experiment with a lot of different styles,}}$
+<p align="center"> ${\textsf{\color{#ffbdd4}I don't tend to copy anyone on purpose, so lmk if our styles are similar!!}}$
 <p align="center"><img width="350" height="340" alt="yeo" src="https://github.com/user-attachments/assets/4288712e-1e79-4aa4-96b3-7acdb682f26f" /><img width="350" height="340" alt="hj" src="https://github.com/user-attachments/assets/9d3cfcb9-46d6-482d-a1b1-e24839fde599" />
